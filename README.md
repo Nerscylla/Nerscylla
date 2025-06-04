@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nerscylla</h1>
-<h3>I am a passionate learner and student from Germany.</h3>
+<h3 align="center">I am a passionate learner and student from Germany.</h3>
 
 ###
 
