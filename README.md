@@ -79,7 +79,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Nerscylla/Nerscylla/output/snake.svg" alt="Snake animation" />
-
-###
