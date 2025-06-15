@@ -62,7 +62,7 @@
 
 ###
 
-<h3 align="center">Contact</h3>
+<h2 align="center">Contact</h3>
 
 ###
 
@@ -79,3 +79,7 @@
 </div>
 
 ###
+
+<h3 align="center">My coding time</h3>
+[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33277%26minutes%3D43200)](https://codetime.dev)
+
