@@ -84,7 +84,7 @@
 
 ---
 
-<h3 align="center">My coding time this month</h3>
+<h2 align="center">My coding time this month</h2>
 <div align="center">
 	<img src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33277%26minutes%3D43200" height="25" alt="CODETIME"  />
 </div>
@@ -93,7 +93,7 @@
 
 ---
 
-<h3 align="center">What music I've been enjoying in the past year</h3>
+<h2 align="center">What music I've been enjoying in the past year</h2>
 <div align="center">
 	<img src="https://trackify.am/api/share/user_no_pfp?id=860982&past=year" alt="trackify"  />
 </div>
