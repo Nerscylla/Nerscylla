@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nerscylla</h1>
 <h3 align="center">I am a passionate learner and student from Germany.</h3>
 
-###
+---
 
 <h2 align="center">What I work with</h2>
 
@@ -55,6 +55,12 @@
 
 ###
 
+---
+
+<h2 align="center">My statistics</h2>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nerscylla&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Nerscylla&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -62,7 +68,9 @@
 
 ###
 
-<h2 align="center">Contact</h3>
+---
+
+<h2 align="center">Contact Me</h3>
 
 ###
 
@@ -74,11 +82,19 @@
 
 ###
 
+---
+
+<h3 align="center">My coding time this month</h3>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nerscylla.Nerscylla&"  />
+	<img src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33277%26minutes%3D43200" height="25" alt="CODETIME"  />
 </div>
 
 ###
 
-<h3 align="center">My coding time</h3>
-![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33277%26minutes%3D43200)
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nerscylla.Nerscylla"  />
+</div>
+
+###
