@@ -93,6 +93,15 @@
 
 ---
 
+<h3 align="center">What music I've been enjoying in the past year</h3>
+<div align="center">
+	<img src="https://trackify.am/api/share/user_no_pfp?id=860982&past=year" alt="trackify"  />
+</div>
+
+###
+
+---
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nerscylla.Nerscylla"  />
 </div>
